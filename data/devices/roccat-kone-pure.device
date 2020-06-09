@@ -2,3 +2,4 @@
 Name=Roccat Kone Pure
 DeviceMatch=usb:1e7d:2dc2;usb:1e7d:2dbe
 Driver=roccat-kone-pure
+DeviceType=mouse
